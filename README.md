@@ -1,1 +1,1 @@
-# Assignment: The Magic of Conditional Statements: Assignments
+# Assignment: The Magic of Conditional Statements
